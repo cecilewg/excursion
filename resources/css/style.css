@@ -12,7 +12,7 @@ body {
   text-align: center
 }
 
-.link1 {
+.link {
   color: aquamarine;
   font-size: 16px;
 }
@@ -29,6 +29,8 @@ body {
   color: gray
 }
 
-.image1 {
-
+.copyright {
+  font-size: 21px;
+  color: gray;
+  text-align: right
 }
